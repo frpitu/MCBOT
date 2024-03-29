@@ -1,0 +1,8 @@
+socket
+threading
+uuid
+random
+os
+pyfiglet
+colorama
+time
