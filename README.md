@@ -1,6 +1,5 @@
 # MCBOT
 Minecraft Pe MCBOT For 0.14.0
-[X] Not 0.15.10
 # How To Use
 1. Copy nicks.txt in any directory, now copy it
 2. Install resources.txt
